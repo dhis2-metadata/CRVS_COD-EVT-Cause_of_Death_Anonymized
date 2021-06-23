@@ -1,1 +1,1 @@
-# COD_EVENT - Cause of Death event
+# Cause of Death (anonymized) - Event metadata package
